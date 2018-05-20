@@ -2,6 +2,7 @@
 讓你能手動定義Buddy meter的分數，並能自動答對所有題目。 
 
 ## Demo
+![](https://i.imgur.com/3XAyMmk.gif)
 
 ## Features
 - 自動答完並答對所有題目（獲得滿分十分）。
