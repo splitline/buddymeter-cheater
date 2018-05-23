@@ -5,4 +5,9 @@ function injectScript(file, node) {
     s.setAttribute('src', file);
     th.appendChild(s);
 }
-injectScript( chrome.extension.getURL('/js/script.js'), 'body');
+if(typeof browser !== 'undefined'){
+    injectScript( browser.extension.getURL('/js/script.js'), 'body');
+}
+else if(typeof chrome !== 'undefined'){
+    injectScript( chrome.extension.getURL('/js/script.js'), 'body');
+}
