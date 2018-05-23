@@ -17,9 +17,7 @@
 					"https://buddymeter.com/quiz.html?q=*"
 				],
 				"js": [
-					"js/jquery-3.3.1.min.js",
 					"js/contentScript.js"
-					
 				],
 				"all_frames": true,
 				"run_at": "document_idle"
