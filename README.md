@@ -10,3 +10,4 @@
 
 ## Extension & Add-on
 - Chrome Extension: https://chrome.google.com/webstore/detail/buddy-meter-%E7%B0%A1%E6%98%93%E5%A4%96%E6%8E%9B/mhmkonllkaljgokjgdaelihochldlgol?utm_source=chrome-ntp-icon&authuser=1
+- Firefox Add-on: https://addons.mozilla.org/zh-TW/firefox/addon/buddy-meter-%E7%B0%A1%E6%98%93%E5%A4%96%E6%8E%9B/
